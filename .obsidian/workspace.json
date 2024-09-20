@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дневник.md",
+                "file": "Английский/Занятие на 20.09.2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дневник.md",
+                "file": "Английский/Занятие на 20.09.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дневник.md",
+                "file": "Английский/Занятие на 20.09.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дневник.md"
+                "file": "Английский/Занятие на 20.09.2024.md"
               }
             }
           },
@@ -165,9 +165,11 @@
   },
   "active": "02dec866d586f0ed",
   "lastOpenFiles": [
+    "Дневник.md",
+    "Английский/Занятие на 20.09.2024.md",
+    "Английский",
     "2024-09-20.md",
     "2024-09-21.md",
-    "Дневник.md",
     "README.md",
     "Untitled.canvas"
   ]
