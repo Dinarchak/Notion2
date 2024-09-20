@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-20.md",
+                "file": "Дневник.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-20.md",
+                "file": "Дневник.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-20.md",
+                "file": "Дневник.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-20.md"
+                "file": "Дневник.md"
               }
             }
           },
@@ -163,10 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e3653efa269106e",
+  "active": "02dec866d586f0ed",
   "lastOpenFiles": [
-    "2024-09-21.md",
     "2024-09-20.md",
+    "2024-09-21.md",
     "Дневник.md",
     "README.md",
     "Untitled.canvas"
