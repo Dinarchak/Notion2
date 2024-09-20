@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "2024-09-20.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,12 +146,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,11 +163,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02dec866d586f0ed",
+  "active": "cbc11792b64b7185",
   "lastOpenFiles": [
-    "Дневник.md",
     "2024-09-21.md",
     "2024-09-20.md",
+    "Дневник.md",
     "README.md",
     "Untitled.canvas"
   ]
