@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2f18d7c63031aa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Английский/Nouns and the words they combine with.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Занятие на 20.09.2024.md",
+                "file": "Английский/Nouns and the words they combine with.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Занятие на 20.09.2024.md",
+                "file": "Английский/Nouns and the words they combine with.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Занятие на 20.09.2024.md"
+                "file": "Английский/Nouns and the words they combine with.md"
               }
             }
           },
@@ -163,10 +176,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02dec866d586f0ed",
+  "active": "a2f18d7c63031aa0",
   "lastOpenFiles": [
-    "Дневник.md",
     "Английский/Занятие на 20.09.2024.md",
+    "Английский/Nouns and the words they combine with.md",
+    "Дневник.md",
     "Английский",
     "2024-09-20.md",
     "2024-09-21.md",
