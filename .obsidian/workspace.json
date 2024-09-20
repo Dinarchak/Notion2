@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e57d6f038a5f22b",
+        "id": "8ca8e30c4a90180e",
         "type": "tabs",
         "children": [
           {
-            "id": "4c15c4490d16f1d6",
+            "id": "df20825fdffc0c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "2024-09-20.md",
                 "mode": "source",
-                "backlinks": true,
                 "source": false
               }
             }
@@ -156,11 +155,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c15c4490d16f1d6",
+  "active": "df20825fdffc0c06",
   "lastOpenFiles": [
-    "Дневник.md",
-    "2024-09-20.md",
     "Untitled.canvas",
+    "2024-09-20.md",
+    "Дневник.md",
     "README.md"
   ]
 }
