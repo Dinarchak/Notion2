@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Врата Балдура/Ворота Василиска.md",
+                "file": "Врата Балдура/Активности во Вратах Балдура.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Врата Балдура/Ворота Василиска.md",
+                "file": "Врата Балдура/Общая обстановка.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Врата Балдура/Ворота Василиска.md",
+                "file": "Врата Балдура/Активности во Вратах Балдура.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Врата Балдура/Ворота Василиска.md",
+                "file": "Врата Балдура/Активности во Вратах Балдура.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Врата Балдура/Ворота Василиска.md"
+                "file": "Врата Балдура/Активности во Вратах Балдура.md"
               }
             }
           },
@@ -176,12 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10b8ead44ea82e94",
+  "active": "02dec866d586f0ed",
   "lastOpenFiles": [
-    "2024-09-26.md",
-    "Врата Балдура/Ворота Василиска.md",
     "Врата Балдура/Общая обстановка.md",
     "Врата Балдура/Активности во Вратах Балдура.md",
+    "Врата Балдура/Ворота Василиска.md",
+    "2024-09-26.md",
     "Английский/Занятие на 25.09.2024.md",
     "Врата Балдура",
     "Английский/Занятие на 20.09.2024.md",
