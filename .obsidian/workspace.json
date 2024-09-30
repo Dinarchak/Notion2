@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1befc012437d16c3",
+        "id": "e056031c89d8a84c",
         "type": "tabs",
         "children": [
           {
-            "id": "10b8ead44ea82e94",
+            "id": "f44b4d70c27842c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Врата Балдура/Зацепки для квестов.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "360872dffd089229",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "561d3771fc9da129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Врата Балдура/Путеводитель по Вратам Балдура.md",
+                "file": "Врата Балдура/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Врата Балдура/Путеводитель по Вратам Балдура.md",
+                "file": "Врата Балдура/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Врата Балдура/Путеводитель по Вратам Балдура.md",
+                "file": "Врата Балдура/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Врата Балдура/Путеводитель по Вратам Балдура.md"
+                "file": "Врата Балдура/Untitled.md"
               }
             }
           },
@@ -182,16 +164,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "561d3771fc9da129",
+  "active": "f44b4d70c27842c3",
   "lastOpenFiles": [
-    "Врата Балдура/Зацепки для квестов.md",
     "Врата Балдура/Путеводитель по Вратам Балдура.md",
+    "Врата Балдура/Untitled.md",
+    "Врата Балдура/Общая обстановка.md",
+    "Врата Балдура/Этапы кампании/Ворота Василиска.md",
+    "Врата Балдура/Зацепки для квестов.md",
     "Врата Балдура/Фракции во Вратах Балдура.md",
     "Врата Балдура/Блоки Характеристик.md",
-    "Врата Балдура/Общая обстановка.md",
     "Pasted image 20240930132544.png",
     "Врата Балдура/Изображения/Pasted image 20240930132254.png",
-    "Врата Балдура/Этапы кампании/Ворота Василиска.md",
     "Врата Балдура/Изображения/Pasted image 20240930115613.png",
     "Врата Балдура/Этапы кампании/Таверна Эльфийская песнь.md",
     "Врата Балдура/Изображения/Pasted image 20240928015208.png",
