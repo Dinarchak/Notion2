@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
+                "file": "Врата Балдура/Персонажи.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4391ada4178c227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -164,13 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f44b4d70c27842c3",
+  "active": "b4391ada4178c227",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Врата Балдура/Персонажи.md",
+    "Врата Балдура/Блоки Характеристик.md",
     "Врата Балдура/Путеводитель по Вратам Балдура.md",
     "Врата Балдура/Общая обстановка.md",
     "Врата Балдура/Зацепки для квестов.md",
-    "Врата Балдура/Блоки Характеристик.md",
-    "Врата Балдура/Персонажи.md",
     "Врата Балдура/Этапы кампании/Ворота Василиска.md",
     "Врата Балдура/Фракции во Вратах Балдура.md",
     "Pasted image 20240930132544.png",
