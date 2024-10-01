@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Врата Балдура/Персонажи.md",
+                "file": "Врата Балдура/Общая обстановка.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Врата Балдура/Блоки Характеристик.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Врата Балдура/Блоки Характеристик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Врата Балдура/Блоки Характеристик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Врата Балдура/Блоки Характеристик.md"
               }
             }
           },
@@ -179,11 +179,11 @@
   },
   "active": "b4391ada4178c227",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Врата Балдура/Общая обстановка.md",
+    "Врата Балдура/Путеводитель по Вратам Балдура.md",
     "Врата Балдура/Персонажи.md",
     "Врата Балдура/Блоки Характеристик.md",
-    "Врата Балдура/Путеводитель по Вратам Балдура.md",
-    "Врата Балдура/Общая обстановка.md",
+    "Untitled.md",
     "Врата Балдура/Зацепки для квестов.md",
     "Врата Балдура/Этапы кампании/Ворота Василиска.md",
     "Врата Балдура/Фракции во Вратах Балдура.md",
