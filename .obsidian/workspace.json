@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
+                "file": "2024-10-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
+                "file": "2024-10-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
+                "file": "2024-10-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md"
+                "file": "2024-10-01.md"
               }
             }
           },
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,10 +178,11 @@
   },
   "active": "b4391ada4178c227",
   "lastOpenFiles": [
+    "Врата Балдура/Блоки Характеристик.md",
+    "2024-10-01.md",
     "Врата Балдура/Общая обстановка.md",
     "Врата Балдура/Путеводитель по Вратам Балдура.md",
     "Врата Балдура/Персонажи.md",
-    "Врата Балдура/Блоки Характеристик.md",
     "Untitled.md",
     "Врата Балдура/Зацепки для квестов.md",
     "Врата Балдура/Этапы кампании/Ворота Василиска.md",
