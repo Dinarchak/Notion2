@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Врата Балдура/Общая обстановка.md",
+                "file": "Врата Балдура/Персонажи.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Врата Балдура/Общая обстановка.md",
+                "file": "Врата Балдура/Персонажи.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Врата Балдура/Общая обстановка.md",
+                "file": "Врата Балдура/Персонажи.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Врата Балдура/Общая обстановка.md"
+                "file": "Врата Балдура/Персонажи.md"
               }
             }
           },
@@ -175,12 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbc11792b64b7185",
+  "active": "f44b4d70c27842c3",
   "lastOpenFiles": [
+    "Врата Балдура/Общая обстановка.md",
     "2024-10-02.md",
     "2024-10-01.md",
     "Врата Балдура/Блоки Характеристик.md",
-    "Врата Балдура/Общая обстановка.md",
     "Врата Балдура/Путеводитель по Вратам Балдура.md",
     "Врата Балдура/Персонажи.md",
     "Untitled.md",
