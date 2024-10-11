@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "580c4c7af2c87dcd",
+  "active": "0226c4c34e6e81e2",
   "lastOpenFiles": [
     "Врата Балдура/Блоки Характеристик.md",
     "Врата Балдура/Изображения/{388F784E-B47A-41D7-ACD3-358BD780DB38}.png",
