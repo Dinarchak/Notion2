@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Врата Балдура/Этапы кампании/Подземелье мертвой троицы.md",
+                "file": "Врата Балдура/Блоки Характеристик.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a5fcd75fe6666e0c",
+  "active": "cfbc57e0f93a1552",
   "lastOpenFiles": [
     "Врата Балдура/Этапы кампании/Подземелье мертвой троицы.md",
     "Врата Балдура/Блоки Характеристик.md",
