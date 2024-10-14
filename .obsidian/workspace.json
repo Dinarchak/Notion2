@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c5f6f00675e84a99",
+        "id": "b3a2ade7fd17a322",
         "type": "tabs",
         "children": [
           {
-            "id": "cfbc57e0f93a1552",
+            "id": "d9b4af64ec7b4a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5fcd75fe6666e0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
+                "file": "Врата Балдура/Этапы кампании/Подземелье мертвой троицы.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
+                "file": "Врата Балдура/Этапы кампании/Подземелье мертвой троицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md",
+                "file": "Врата Балдура/Этапы кампании/Подземелье мертвой троицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Врата Балдура/Блоки Характеристик.md"
+                "file": "Врата Балдура/Этапы кампании/Подземелье мертвой троицы.md"
               }
             }
           },
@@ -176,10 +164,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cfbc57e0f93a1552",
+  "active": "d9b4af64ec7b4a6a",
   "lastOpenFiles": [
-    "Врата Балдура/Этапы кампании/Подземелье мертвой троицы.md",
     "Врата Балдура/Блоки Характеристик.md",
+    "Врата Балдура/Этапы кампании/Подземелье мертвой троицы.md",
     "Врата Балдура/Этапы кампании/Низкий фонарь.md",
     "Врата Балдура/Этапы кампании/Ворота Василиска.md",
     "Врата Балдура/Этапы кампании/Таверна Эльфийская песнь.md",
